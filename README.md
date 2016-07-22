@@ -20,6 +20,10 @@ These cover the general topic of machine learning and are beginner friendly.
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 - [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 
+## Introduction to neural networks
+
+- [A Beginner's Guide To Understanding Convolutional Neural Networks]https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
+
 ## Courses (MOOC)
 This is a short list of current Online courses with machine Learning and Data Science bias.
 You can use the Audit mode to participate for free at an edX Course, unfortunately the Coursera Courses can't be audited for free.
